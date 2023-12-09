@@ -1,0 +1,18 @@
+{
+    "cells": [
+        {
+            "language": "markdown",
+            "source": [
+                "----\n\n### Screeps Domination Path\n\n#### Issues:\n\n- Gatherer erratic path finding\n- Gatherer target source memory\n\n> Related\n> - [role.harvester.ts](./src/core/role/role.harvester.ts)\n> - [roles.ts](./src/core/role/roles.ts)\n\n#### Main TODOs:\n\n- Optimize harvester\n- Check out spawn / controller docs\n- Track spawn / controller level\n\n#### Sub TODOs:\n\n- Configure eslint\n- Configure Bookmark extension and its shortcuts\n- Try to define functions/consts accessible through the in-client console - maybe memory?\n- \n\n\n----"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "----\n\n### DOC NOTES\n\n#### Body part cost\n\n- Move: 50\n- Work: 100\n- Attack: 80\n- Carry: 50\n- Heal: 250\n- Ranged_attack: 150\n- Tough: 10\n- Claim: 60\n\n----"
+            ],
+            "outputs": []
+        }
+    ]
+}
