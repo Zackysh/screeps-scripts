@@ -1,5 +1,5 @@
-import { RoleNames } from "./roles/role.types";
-import PopulationStore from "./stores/population.store";
+import { RoleNames } from './roles/role.types';
+import PopulationStore from './stores/population.store';
 
 const logger = {
   header: (message: unknown) => {

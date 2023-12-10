@@ -1,4 +1,4 @@
-import { RoleNames } from "core/roles/role.types";
+import { RoleNames } from 'core/roles/role.types';
 
 export default class PopulationStore {
   static population: { [key: string]: number } = {};

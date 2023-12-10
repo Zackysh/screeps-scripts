@@ -1,6 +1,6 @@
-import logger from "core/logger";
-import { freeMem } from "core/memory/extension";
-import commandAll from "logic/obligator";
+import logger from 'core/logger';
+import { freeMem } from 'core/memory/extension';
+import commandAll from 'logic/obligator';
 
 export const loop = () => {
   logger.header(Game.time);

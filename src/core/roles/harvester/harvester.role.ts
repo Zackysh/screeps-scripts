@@ -1,5 +1,5 @@
-import { Role } from "core/core.types";
-import { debug } from "core/utils/debug.util";
+import { debug } from 'core/utils/debug.util';
+import { Role } from '../role.types';
 
 const harvester: Role = {
   run: (creep: Creep) => {

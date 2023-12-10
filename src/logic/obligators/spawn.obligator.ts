@@ -1,6 +1,6 @@
-import { RoleNames, TargetPopulation, roles } from "core/roles/role.types";
-import PopulationStore from "core/stores/population.store";
-import { DebugConfig } from "core/utils/debug.util";
+import { RoleNames, TargetPopulation, roles } from 'core/roles/role.types';
+import PopulationStore from 'core/stores/population.store';
+import { DebugConfig } from 'core/utils/debug.util';
 
 
 
